@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kharade</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-<img align ="righht" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p>
 
