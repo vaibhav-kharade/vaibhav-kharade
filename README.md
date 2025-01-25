@@ -8,12 +8,6 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p>
-<p align="left">
-  <span style="font-size: 36px;">
-    <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" />
-  </span>
-</p>
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,7 +15,7 @@
 
 🌱 I’m currently learning React and Advanced Backend Frameworks
 
-📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavkharade1000@gmail.com">vaibhavkharade1000@gmail.com</a> | <a href="tel:+918007228353">+91 8007228353</a>
+📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353</a>
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
