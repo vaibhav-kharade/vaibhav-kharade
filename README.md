@@ -1,5 +1,7 @@
 ![logo](https://github.com/vaibhav-kharade/vaibhav-kharade/blob/main/GitHub.Banner..png)
 
+---
+
 <h1 align="center">Hi 👋, I'm Vaibhav Kharade</h1> 
 <h3 align="center">A passionate Java Full Stack Developer from India</h3> 
 
@@ -87,8 +89,13 @@
   </a> 
 </p>
 
+---
+
 📊 GitHub Stats
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-kharade&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade" alt="GitHub Streak Stats" /> </p>
+
+---
+
 
 🌐 Connect With Me
 <p align="center"> 
