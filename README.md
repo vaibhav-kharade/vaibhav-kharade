@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning React and Advanced Backend Frameworks
 
-📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353</a>
+📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
