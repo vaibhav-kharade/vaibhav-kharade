@@ -2,14 +2,10 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Vaibhav Kharade</h1> 
-<h3 align="center">"Experienced Java Full Stack Developer | Building Scalable Solutions with Expertise from India"</h3> 
-
-<img align="right" alt="coding" width="381" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> <h3 align="center">Java Full Stack Developer | Building Scalable & Efficient Software Solutions | Passionate About Technology & Innovation</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p> <p align="center"> <a href="https://twitter.com/vaibhav_kharade" target="blank"> <img src="https://img.shields.io/twitter/follow/vaibhav_kharade?logo=twitter&style=for-the-badge" alt="Twitter" /> </a> </p>
+👨‍💻 About Me
+I am a Java Full Stack Developer with a deep understanding of building dynamic, scalable, and robust applications. With expertise in Java, Spring Boot, React, and MySQL, I am focused on delivering high-quality software that solves real-world problems. Currently, I am expanding my knowledge by exploring advanced backend frameworks and cloud technologies to stay ahead in this ever-evolving tech landscape.
+---
 
 🔭 I’m currently working on Streaming full stack Application
 
@@ -18,6 +14,20 @@
 📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
+
+🔧 Currently working on:
+Building an end-to-end streaming application with a full-stack architecture
+Enhancing cloud deployment strategies using Docker and Kubernetes
+🌱 Currently learning:
+React and Advanced Backend Frameworks
+Exploring Data Streaming technologies (Apache Kafka, Spark)
+📫 Reach Me:
+Email: vaibhavkharade1000@gmail.com
+LinkedIn: Vaibhav Kharade - LinkedIn
+ <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> 
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> Vaibhav Kharade - LinkedIn
+ </a> 
+
 
 ---
 
