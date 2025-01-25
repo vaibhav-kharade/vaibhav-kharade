@@ -21,19 +21,14 @@ I am a Java Full Stack Developer with a deep understanding of building dynamic, 
 
 ---
 
-🔧 Currently working on:
-
-Building an end-to-end streaming application with a full-stack architecture
+🔧 Currently working on: Building an end-to-end streaming application with a full-stack architecture
 Enhancing cloud deployment strategies using Docker and Kubernetes
 
 🌱 Currently learning: React , advanced backend frameworks and exploring Data Streaming technologies (Apache Kafka, Spark)
 
 📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
-📫 Reach Me:
-Email: vaibhavkharade1000@gmail.com
-
-  LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
+📫 Reach Me: Email: vaibhavkharade1000@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
