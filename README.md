@@ -25,7 +25,7 @@
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-kharade&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade" alt="GitHub Streak Stats" /> </p>
 
 🌐 Connect With Me
-<p align="left"> 
+<p align="center"> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavkharade1000@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
