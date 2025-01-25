@@ -27,7 +27,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
 
 🔭 I’m currently working on Streaming full stack Application
 
-🌱 Currently learning: React , advanced Backend Frameworks and Exploring Data Streaming technologies (Apache Kafka, Spark)
+🌱 Currently learning: React , advanced backend frameworks and exploring Data Streaming technologies (Apache Kafka, Spark)
 
 📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
