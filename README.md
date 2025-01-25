@@ -154,7 +154,6 @@ DevOps & Cloud
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade"
             alt="GitHub Streak Stats" />
     </p>
----
 
 ---
 
