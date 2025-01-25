@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning React and Advanced Backend Frameworks
 
-📫 How to reach e: [vaibhavkharade1000@gmail.com](mailto:vaibhavkharade1000@gmail.com) | [+91 8007228353](tel:+918007228353) 
+📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavkharade1000@gmail.com">vaibhavkharade1000@gmail.com</a> | [+91 8007228353](tel:+918007228353) 
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
