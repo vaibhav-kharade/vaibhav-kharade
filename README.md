@@ -21,70 +21,72 @@
 
 ---
 
+
 🛠️ Languages and Tools
-<p align="center"> 
-  <!-- Core Skills --> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> 
-    <br>Java
+<p align="center"> <!-- Core Skills --> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"
+            width="40" height="40" /> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> 
-    <br>React
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="React" width="40" height="40" /> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
-    <br>JavaScript
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="JavaScript" width="40" height="40" /> 
   </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /> 
-    <br>Spring
+  <a href="https://spring.io/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"
+            width="40" height="40" /> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
-    <br>MySQL
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="MySQL" width="40" height="40" /> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
-    <br>MongoDB
+  <a href="https://www.mongodb.com/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="MongoDB" width="40" height="40" /> 
   </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" /> 
-    <br>Kafka
+  <a href="https://kafka.apache.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka"
+            width="40" height="40" /> 
   </a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Spark" width="40" height="40" /> 
-    <br>Apache Spark
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"
+            alt="Apache Spark" width="40" height="40" /> 
   </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> 
-    <br>PostgreSQL
+  <a href="https://www.postgresql.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="PostgreSQL" width="40" height="40" /> 
   </a> 
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40" /> 
-    <br>Maven
+  <a href="https://maven.apache.org/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg"
+            alt="Maven" width="40" height="40" /> 
   </a> 
-  <!-- Snowflake Logo -->
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/S/snowflake-logo-E7E6D02A4C-seeklogo.com.png" alt="Snowflake" width="40" height="40" /> 
-    <br>Snowflake
+  <a href="https://www.snowflake.com/" target="_blank"
+        rel="noreferrer"> <img src="https://seeklogo.com/images/S/snowflake-logo-E7E6D02A4C-seeklogo.com.png"
+            alt="Snowflake" width="40" height="40" /> 
   </a> 
-  <!-- Iceberg Logo -->
-  <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://iceberg.apache.org/img/favicon.png" alt="Iceberg" width="40" height="40" /> 
-    <br>Iceberg
+  <a href="https://iceberg.apache.org/" target="_blank"
+        rel="noreferrer"> <img src="https://iceberg.apache.org/img/favicon.png" alt="Iceberg" width="40" height="40" />
+    </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
-    <br>Git
+  <a
+        href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
+            width="40" height="40" /> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> 
-    <br>Linux
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> 
-    <br>Postman
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
+            height="40" /> 
   </a> 
 </p>
 
