@@ -2,8 +2,10 @@
 
 ---
 
-<h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> <h3 align="center">Java Full Stack Developer | Building Scalable & Efficient Software Solutions | Passionate About Technology & Innovation</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p> <p align="center"> <a href="https://twitter.com/vaibhav_kharade" target="blank"> <img src="https://img.shields.io/twitter/follow/vaibhav_kharade?logo=twitter&style=for-the-badge" alt="Twitter" /> </a> </p>
+<h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> <h3 align="center">Java Full Stack Developer | Building Scalable & Efficient Software Solutions | Passionate About Technology & Innovation</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" /> </p> <p align="center"> <a href="[https://twitter.com/vaibhav_kharade](https://x.com/Vaibhav86417751)" target="blank"> <img src="https://img.shields.io/twitter/follow/vaibhav_kharade?logo=twitter&style=for-the-badge" alt="Twitter" /> </a> </p>
+
 👨‍💻 About Me
+
 I am a Java Full Stack Developer with a deep understanding of building dynamic, scalable, and robust applications. With expertise in Java, Spring Boot, React, and MySQL, I am focused on delivering high-quality software that solves real-world problems. Currently, I am expanding my knowledge by exploring advanced backend frameworks and cloud technologies to stay ahead in this ever-evolving tech landscape.
 ---
 
