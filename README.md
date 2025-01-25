@@ -32,19 +32,13 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
 
 📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
-⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
-
-🌱 Currently learning:
-React and Advanced Backend Frameworks
-
-Exploring Data Streaming technologies (Apache Kafka, Spark)
 
 📫 Reach Me:
 Email: vaibhavkharade1000@gmail.com
-
 LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
 
+⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
 ---
 
