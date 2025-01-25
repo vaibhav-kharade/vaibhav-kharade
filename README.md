@@ -16,7 +16,7 @@
 
 👨‍💻 About Me
 
-I am a Java Full Stack Developer with a deep understanding of building dynamic, scalable, and robust applications. With expertise in Java, Spring Boot, React, and MySQL, I am focused on delivering high-quality software that solves real-world problems. Currently, I am expanding my knowledge by exploring advanced backend frameworks and cloud technologies to stay ahead in this ever-evolving tech landscape.
+I am a Java Full Stack Developer with a deep understanding of building dynamic, scalable, and robust applications. With expertise in Java, Spring Boot, React, M<ongoDB, Apache Spark, and MySQL, I am focused on delivering high-quality software that solves real-world problems. Currently, I am expanding my knowledge by exploring advanced backend frameworks and cloud technologies to stay ahead in this ever-evolving tech landscape.
 
 
 ---
@@ -26,17 +26,14 @@ I am a Java Full Stack Developer with a deep understanding of building dynamic, 
 Building an end-to-end streaming application with a full-stack architecture
 Enhancing cloud deployment strategies using Docker and Kubernetes
 
-🔭 I’m currently working on Streaming full stack Application
-
 🌱 Currently learning: React , advanced backend frameworks and exploring Data Streaming technologies (Apache Kafka, Spark)
 
 📫 How to reach me: vaibhavkharade1000@gmail.com | +91 8007228353
 
-
-
 📫 Reach Me:
 Email: vaibhavkharade1000@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
+
+  LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
