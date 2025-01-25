@@ -17,6 +17,7 @@
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
+---
 
 🛠️ Languages and Tools
 <p align="center"> <!-- Core Skills --> 
