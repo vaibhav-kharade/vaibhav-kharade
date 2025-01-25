@@ -19,6 +19,12 @@
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
+🔭 I’m currently working on Streaming full stack Application  
+🌱 I’m currently learning React, Advanced Frameworks  and databases like Snowflake, Iceberg
+📫 How to reach me: [vaibhavkharade1000@gmail.com](mailto:vaibhavkharade1000@gmail.com) | [+91 8007228353](tel:+918007228353)  
+⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅  
+
+
 ---
 
 🛠️ Languages and Tools
