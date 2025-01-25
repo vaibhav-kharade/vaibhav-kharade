@@ -35,7 +35,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
 
 🛠️ **Technologies & Tools**
 
-**Languages & Frameworks**  
+### Languages & Frameworks
 <p align="center"> 
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> 
@@ -51,7 +51,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a> 
 </p>
 
-**Databases & Tools**  
+### 📚 Databases & Tools
 <p align="center"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
@@ -67,7 +67,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a> 
 </p>
 
-**DevOps & Cloud**  
+### ☁️ DevOps & Cloud
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> 
@@ -76,6 +76,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> 
   </a> 
 </p>
+
 
 
 ---
