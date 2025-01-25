@@ -3,7 +3,8 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Vaibhav Kharade</h1> 
-<h3 align="center" bottom="75px">"Experienced Java Full Stack Developer | Building Scalable Solutions with Expertise from India"</h3> 
+<h3 align="center">"Experienced Java Full Stack Developer | Building Scalable Solutions with Expertise from India"</h3> 
+<h3 align="center" style="margin-bottom: 1.5cm;">"Experienced Java Full Stack Developer | Building Scalable Solutions with Expertise from India"</h3>
 
 <img align="right" alt="coding" width="381" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"> 
 
