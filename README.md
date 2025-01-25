@@ -87,9 +87,9 @@ DevOps & Cloud
 <p align="center"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> </a> </p>
 -->
 
-🛠️ Languages and Tools
+<!--🛠️ Languages and Tools
 <p align="center"> <!-- Core Skills --> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
+<!--  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
@@ -134,7 +134,7 @@ DevOps & Cloud
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> 
   </a> 
-</p>
+</p>-->
 
 
 ---
