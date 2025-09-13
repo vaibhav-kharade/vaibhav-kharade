@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> 
-<h3 align="center">Java Full Stack Developer | Building Scalable & Efficient Software Solutions | Passionate About Technology & Innovation</h3> 
+<h3 align="center">Java Full Stack Developer | Java, Spring Boot, React, Spark, Cloud | Experienced at InFeryx Analytics Pvt Ltd</h3> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" />
 </p> 
