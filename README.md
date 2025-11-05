@@ -67,7 +67,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a> 
 </p>
 
-### ☁️ DevOps & Cloud
+<!--### ☁️ DevOps & Cloud
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> 
@@ -75,7 +75,20 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   <a href="https://kubernetes.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> 
   </a> 
+</p>-->
+### ☁️ DevOps, Cloud & CI/CD
+<p align="center"> 
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> 
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /> 
+  </a>
 </p>
+
 
 ---
 <!--  🛠️ Technologies & Tools
