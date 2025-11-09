@@ -70,10 +70,10 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
 ### 📚 Version Control & Collaboration
 <p align="center">
  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> Git
   </a> 
   <a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> Postman
   </a> 
 </p>
 
