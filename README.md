@@ -3,7 +3,13 @@
 ---
 
 <h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> 
-<h3 align="center">Java Full Stack Developer | Java, Spring Boot, React, Spark, Cloud | Experienced at InFeryx Analytics Pvt Ltd</h3> 
+<!--
+  <h3 align="center">Java Full Stack Developer | Java, Spring Boot, React, Spark, Cloud | Experienced at InFeryx Analytics Pvt Ltd</h3>
+-->
+<h3 align="center">
+  💻 Java Full Stack Developer | Spring Boot | React | Cloud | Spark | InFeryx Analytics Pvt Ltd
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" />
 </p> 
@@ -58,13 +64,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> MongoDB
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> 
-  </a> 
+  </a>
 </p>
 
 ### 📚 Version Control & Collaboration
