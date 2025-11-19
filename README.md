@@ -65,6 +65,25 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> MongoDB
   </a>
+  <!-- Oracle 10g (uses Oracle logo; 10g logo not available, but this is standard) -->
+  <a href="https://www.oracle.com/database/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> Oracle 10g
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> PostgreSQL
+  </a>
+
+  <!-- MS SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40" /> MS SQL Server
+  </a>
+
+  <!-- MariaDB -->
+  <a href="https://mariadb.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40" /> MariaDB
+  </a>
 </p>
 
 ### 📚 Version Control & Collaboration
