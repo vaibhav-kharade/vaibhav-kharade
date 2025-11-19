@@ -7,7 +7,7 @@
   <h3 align="center">Java Full Stack Developer | Java, Spring Boot, React, Spark, Cloud | Experienced at InFeryx Analytics Pvt Ltd</h3>
 -->
 <h3 align="center">
-  💻 Java Full Stack Developer | Spring Boot | React | Cloud | Spark | InFeryx Analytics Pvt Ltd
+  💻 Java Full Stack Developer | Spring Boot | React | Cloud | Spark | @ InFeryx Analytics Pvt Ltd
 </h3>
 
 <p align="center">
