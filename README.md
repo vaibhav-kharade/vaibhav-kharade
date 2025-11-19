@@ -76,9 +76,9 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a>
 
   <!-- MS SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+  <!--<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40" /> MS SQL Server
-  </a>
+  </a>-->
 
   <!-- MariaDB -->
   <a href="https://mariadb.org/" target="_blank"> 
