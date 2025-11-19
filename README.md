@@ -7,8 +7,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 25px;
-  padding: 20px;
+  gap: 5px;
+  padding: 2px;
 }
 
 .tech-item {
