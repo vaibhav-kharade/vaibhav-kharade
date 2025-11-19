@@ -20,8 +20,8 @@
 }
 
 .tech-item img {
-  width: 55px;
-  height: 55px;
+  width: 5px;
+  height: 5px;
   transition: transform 0.3s ease, filter 0.3s ease;
   filter: drop-shadow(0px 0px 4px #000000);
 }
