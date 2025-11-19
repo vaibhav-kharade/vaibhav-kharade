@@ -1,41 +1,6 @@
 ![logo](https://github.com/vaibhav-kharade/vaibhav-kharade/blob/main/GitHub.Banner..png)
 
 ---
-<!-- 🌙 DARK THEME + HOVER ANIMATIONS -->
-<style>
-.tech-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 5px;
-  padding: 2px;
-}
-
-.tech-item {
-  text-align: center;
-  color: #ffffff;
-  font-size: 14px;
-  font-weight: bold;
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-.tech-item img {
-  width: 5px;
-  height: 5px;
-  transition: transform 0.3s ease, filter 0.3s ease;
-  filter: drop-shadow(0px 0px 4px #000000);
-}
-
-.tech-item:hover img {
-  transform: scale(1.25);
-  filter: drop-shadow(0px 0px 8px #00eaff);
-}
-
-.tech-item:hover {
-  transform: translateY(-5px);
-}
-</style>
-
 
 <h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> 
 <!--
@@ -141,7 +106,6 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
   </a> 
 </p>-->
 ### ☁️ DevOps, Cloud & CI/CD
-<!--
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> Docker
@@ -153,25 +117,6 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /> Jenkins
   </a>
 </p>
--->
-<div class="tech-container">
-
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <div>Docker</div>
-  </div>
-
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
-    <div>Kubernetes</div>
-  </div>
-
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
-    <div>Jenkins</div>
-  </div>
-
-</div>
 
 
 ---
@@ -267,4 +212,5 @@ DevOps & Cloud
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
  </a> 
 </p>
-
+<hr>
+<h3 align="center">✨ Thanks for visiting my profile! Have a great day! ✨</h3>
