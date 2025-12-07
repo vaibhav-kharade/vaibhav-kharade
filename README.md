@@ -32,7 +32,7 @@ Enhancing cloud deployment strategies using Docker and Kubernetes
 
 🌱 Currently learning: React , advanced backend frameworks and exploring Data Streaming technologies (Apache Kafka, Spark)
 
-📫 Reach Me: Email: vaibhavkharade1000@gmail.com | Phone: +91 8007228353 | LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
+📫 Reach Me: Email: vaibhavkharade1000@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
 
 ⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
 
@@ -180,9 +180,9 @@ DevOps & Cloud
 
 
 <!-- 📊 GitHub Stats -->
-📊 **GitHub Stats**
+<!-- 📊 **GitHub Stats**-->
 
-<p align="left">
+<!-- <p align="left">
         <img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-kharade&show_icons=true&locale=en&layout=compact"
             alt="Top Languages" />
@@ -196,7 +196,25 @@ DevOps & Cloud
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade"
             alt="GitHub Streak Stats" />
     </p>
+-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhav-kharade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kharade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhav-kharade&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaibhav-kharade&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vaibhav-kharade&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 
