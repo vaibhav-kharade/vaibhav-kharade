@@ -1,234 +1,242 @@
-![logo](https://github.com/vaibhav-kharade/vaibhav-kharade/blob/main/GitHub.Banner..png)
+<!--![Banner](https://github.com/vaibhav-kharade/vaibhav-kharade/blob/main/GitHub.Banner..png) -->
+![Banner](https://github.com/vaibhav-kharade/vaibhav-kharade/blob/main/linkedin-banner.png)
 
----
+<h1 align="center">Hi 👋 I'm Vaibhav Kharade</h1>
 
-<h1 align="center">Hello, I'm Vaibhav Kharade 👋</h1> 
-<!--
-  <h3 align="center">Java Full Stack Developer | Java, Spring Boot, React, Spark, Cloud | Experienced at InFeryx Analytics Pvt Ltd</h3>
--->
 <h3 align="center">
-  💻 Java Full Stack Developer | Spring Boot | React | Cloud | Spark | @ InFeryx Analytics Pvt Ltd
+Backend & Full Stack Engineer | Java | Spring Boot | Distributed Systems | Apache Spark | Kafka | Cloud
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kharade" />
-</p> 
-
-<p align="center">
-  <a href="https://x.com/Vaibhav86417751" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Vaibhav86417751?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+Building scalable backend systems, data platforms, and high-performance applications.
 </p>
-
-👨‍💻 **About Me** 
-
-I am a Java Full Stack Developer with a deep understanding of building dynamic, scalable, and robust applications. With expertise in Java, Spring Boot, React, MongoDB, Apache Spark, and MySQL, I am focused on delivering high-quality software that solves real-world problems. Currently, I am expanding my knowledge by exploring advanced backend frameworks and cloud technologies to stay ahead in this ever-evolving tech landscape.
-
 
 ---
 
-🔧 Currently working on: Building an end-to-end streaming application with a full-stack architecture
-Enhancing cloud deployment strategies using Docker and Kubernetes
+# 👨‍💻 About Me
 
-🌱 Currently learning: React , advanced backend frameworks and exploring Data Streaming technologies (Apache Kafka, Spark)
+I am a **Software Engineer focused on backend development, distributed systems, and data platforms.**
 
-📫 Reach Me: Email: vaibhavkharade1000@gmail.com | LinkedIn: <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> vaibhavkharade-fsd/ </a> 
+I enjoy designing **high-performance applications and scalable architectures** using modern technologies.
 
-⚡ Fun fact: I believe a sense of humor makes coding more fun! 😅
+Currently working on **data platforms and backend services**, while exploring real-time data streaming and cloud-native architectures.
+
+### Engineering Interests
+
+• Distributed Systems  
+• High-performance Backend Systems  
+• Data Streaming Architectures  
+• Microservices Design  
+• Scalable Cloud Infrastructure
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer
+Inferyx Analytics Pvt Ltd
+
+• Developing scalable backend services using Java and Spring Boot  
+• Building enterprise data platform components  
+• Working with large-scale data processing technologies such as Apache Spark  
+• Designing APIs and microservices for data analytics applications  
+• Improving performance and scalability of distributed systems
+
+---
+## 🏆 Engineering Achievements
+
+• Designed and implemented a distributed banking system using Java RMI  
+• Built a facial authentication system with real-time detection  
+• Developed full-stack applications using React, Spring Boot, and MySQL  
+• Worked with big data technologies such as Apache Spark  
+• Designed scalable REST APIs and backend microservices  
+• Implemented containerized applications using Docker  
+• Built real-time event processing systems  
+• Published an academic research paper during engineering  
+• Completed Java Full Stack Development training at JSpiders  
+• Continuously learning distributed systems and cloud-native architectures
 
 ---
 
+# ⚙️ Tech Stack
 
-🛠️ **Technologies & Tools**
+### Backend Engineering
 
-### Languages & Frameworks
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> Java
-  </a> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /> Spring
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> React
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> JavaScript
-  </a> 
-</p>
+Java  
+Spring Boot  
+REST APIs  
+Microservices Architecture  
+Distributed Systems  
 
-### 📚 Databases & Tools
-<p align="center"> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> MySQL
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> MongoDB
-  </a>
-  <!-- Oracle 10g (uses Oracle logo; 10g logo not available, but this is standard) -->
-  <a href="https://www.oracle.com/database/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> Oracle 10g
-  </a>
+### Frontend
 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> PostgreSQL
-  </a>
+React  
+JavaScript  
+HTML  
+CSS  
 
-  <!-- MS SQL Server -->
-  <!--<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40" /> MS SQL Server
-  </a>-->
+### Data Engineering
 
-  <!-- MariaDB -->
-  <a href="https://mariadb.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40" /> MariaDB
-  </a>
-</p>
+Apache Spark  
+Apache Kafka  
+Data Pipelines  
+Real-time Streaming Systems  
 
-### 📚 Version Control & Collaboration
-<p align="center">
- <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> Git
-  </a> 
-  <a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> Postman
-  </a> 
-</p>
+### Databases
 
-<!--### ☁️ DevOps & Cloud
-<p align="center"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> 
-  </a> 
-</p>-->
-### ☁️ DevOps, Cloud & CI/CD
-<p align="center"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> Docker
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> Kubernetes
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /> Jenkins
-  </a>
-</p>
+MySQL  
+MongoDB  
+PostgreSQL  
+Oracle  
 
+### DevOps & Cloud
+
+Docker  
+Kubernetes  
+Jenkins  
+CI/CD Pipelines  
+Linux  
 
 ---
-<!--  🛠️ Technologies & Tools
-Languages & Frameworks
-<p align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> </a> </p>
-Databases & Tools
-<p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> </a> </p>
-DevOps & Cloud
-<p align="center"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" /> </a> </p>
--->
 
-<!--🛠️ Languages and Tools
-<p align="center"> <!-- Core Skills --> 
-<!--  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" /> 
-  </a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Apache Spark" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /> 
-  </a> 
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://seeklogo.com/images/S/snowflake-logo-E7E6D02A4C-seeklogo.com.png" alt="Snowflake" width="40" height="40" /> 
-  </a> 
-  <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://iceberg.apache.org/img/favicon.png" alt="Iceberg" width="40" height="40" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /> 
-  </a> 
-</p>-->
+## 📜 Certifications
 
-
-<!-- 📊 GitHub Stats -->
-<!-- 📊 **GitHub Stats**-->
-
-<!-- <p align="left">
-        <img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-kharade&show_icons=true&locale=en&layout=compact"
-            alt="Top Languages" />
-    </p>
-    <p>
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&show_icons=true&locale=en"
-            alt="GitHub Stats" />
-    </p>
-    <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade"
-            alt="GitHub Streak Stats" />
-    </p>
--->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaibhav-kharade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kharade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhav-kharade&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaibhav-kharade&limit=5&theme=dark&combine_all_yearly_contributions=true)
+✔ Java Full Stack Development – JSpiders  
+✔ Google Crash Course on Python – Coursera  
+✔ Become a Certified Web Developer – Udemy
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaibhav-kharade&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects
+
+### Distributed Banking System
+
+Tech: Java, MySQL, Java RMI
+
+• Designed a distributed client-server banking platform  
+• Implemented secure transaction handling  
+• Built load balancing for better system performance  
+• Added fault tolerance mechanisms
+
 ---
 
+### Facial Authentication System
 
-🌐 Connect With Me
-<p align="center"> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavkharade1000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a> 
-<a href="https://github.com/vaibhav-kharade" target="_blank"> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
- </a> 
- <a href="https://www.linkedin.com/in/vaibhavkharade-fsd/" target="_blank"> 
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
- </a> 
-</p>
-<hr>
-<h3 align="center">✨ Thanks for visiting my profile! Have a great day! ✨</h3>
+Tech: Java, React, Chrome Extension
+
+• Real-time facial authentication platform  
+• Implemented live detection security  
+• Built browser extension authentication integration
+
+---
+
+### Real-Time Data Streaming Platform
+
+Tech: Kafka, Spark, Spring Boot, Docker
+
+• Built real-time data pipeline architecture  
+• Process streaming events using Spark  
+• Implement scalable event processing services
+
+---
+
+# 🚧 Currently Building
+
+### Real-Time Data Analytics Platform
+
+**Tech Stack**
+
+Kafka • Apache Spark • Spring Boot • Docker • React
+
+**Features**
+
+- Event-driven architecture  
+- Real-time data processing  
+- Scalable microservices  
+- Containerized deployment  
+
+---
+
+# 🏗️ Example System Architecture
+
+
+flowchart LR
+A[Client] --> B[API Gateway]
+B --> C[Spring Boot Microservices]
+C --> D[Kafka Event Stream]
+D --> E[Apache Spark Processing]
+E --> F[Database]
+F --> G[React Dashboard]
+
+---
+
+## 🚀 Career Highlights
+
+• Transitioned from Civil Engineering to Software Engineering  
+• Built full-stack applications using Java and React  
+• Working on scalable data platform technologies  
+• Continuously learning distributed systems and cloud infrastructure
+
+---
+
+# 🧠 System Design & Engineering 
+
+Currently studying and implementing system design concepts such as:
+
+• URL Shortener Architecture  
+• Distributed Cache  
+• Rate Limiter Design  
+• Event Streaming Systems  
+• Microservices Communication  
+
+---
+
+## 📚 Continuous Learning
+
+Currently exploring:
+
+• Apache Kafka  
+• Distributed Systems  
+• Kubernetes  
+• Cloud-native Architecture  
+• System Design
+
+---
+
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vaibhav-kharade&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kharade&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kharade&layout=compact&theme=dark)
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-kharade&theme=react-dark)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=vaibhav-kharade&theme=dark)
+
+---
+
+# 📫 Connect With Me
+
+Email: **vaibhavkharade1000@gmail.com**
+
+LinkedIn:  
+https://www.linkedin.com/in/vaibhavkharade-fsd/
+
+GitHub:  
+https://github.com/vaibhav-kharade
+
+---
+
+⭐ Always learning and building scalable backend systems and distributed platforms.
